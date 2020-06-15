@@ -1,12 +1,12 @@
 [submodule "core"]
 	path = core
 	url = https://github.com/informatici/openhospital-core
-	branch = master
+	branch = 1.11-pre-for-adwa
 [submodule "gui"]
 	path = gui
 	url = https://github.com/informatici/openhospital-gui
-	branch = master
+	branch = 1.11-pre-for-adwa
 [submodule "doc"]
 	path = doc
 	url = https://github.com/informatici/openhospital-doc
-	branch = master
+	branch = 1.11-pre-for-adwa
